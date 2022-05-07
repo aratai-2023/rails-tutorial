@@ -1,1 +1,3 @@
-# rails-tutorial
+# rails-tutorial学習の記録用
+
+- 気になった点やエラー解消の記録など備忘録として使用します。
